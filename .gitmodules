@@ -1,0 +1,3 @@
+[submodule "git_b"]
+	path = git_b
+	url = https://github.com/dominicgemilian/git_b.git
